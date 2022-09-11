@@ -59,7 +59,7 @@ class AGI:
         ...
 
 
-print(f'{AGI.__init__} is a method for initiating AGI.')
+print(f'{AGI.__init__} is a method for initializing AGI.')
 ```
 
 The magic function of our organization is to initiate AGI. ∎
