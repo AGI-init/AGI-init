@@ -46,3 +46,20 @@ The latter two are less frequently cited by other, leading institutions.
 We will always put humanity, nature, and Mother Earth first, ahead in the queue before money, bottom line, propriety, or even the art itself.
 
 We will make technology that frees humankind to pursue the passions and callings of the spirit, not further enslave it beneath illusory mists of technological luxury, leaving no footprint of harm on the mental, physical, or spiritual spheres of biological existence. 
+
+---
+
+Python has something called [magic methods](https://rszalski.github.io/magicmethods/). One of these is the ```__init__``` method, which initalializes a class. See below:
+
+```ruby
+class AGI:
+    """A General Intelligence"""
+
+    def __init__(self):
+        ...
+
+
+print(f'{AGI.__init__} is a method for initiating AGI.')
+```
+
+The magic function of our organization is to initiate AGI. ∎
