@@ -1,26 +1,37 @@
-# AGI\_\_init\_\_
-
 <p align="center">
 
 <img width="100%" style="border:1px solid black;"  src="https://i.imgur.com/YWndtJc.jpeg">
  </p>
 
-*__AI is not about__ reproducing the effects of human intelligence in video games like Atari or simulated locomotive tasks like Humanoid. AI isn't even about making robots do those things in the real world. AI is about intelligence, artificially manifest via engineering yet no less profound than the biological variety, no less rooted in the natural principles of evolution, time, and incremental progress. Artificial Intelligence is therefore a misnomer, for it is no more artificial than a planned birth or a garden vs. wild meadows. AI is the plot of land that we till and sow with our engineering minds, yet the fruit of its germination will help nourish and enfree mankind like that which nature procured herself, and deepen our understanding of life in the process. As Richard Feynman put it: to truly understand something, you must be able to build it yourself.*
+*Intelligence exists plainly in nature. Love permeates all things.*
 
-## Principles
+<img width="7%" alt="AGI__init__logo-leaf-transparent"  src="https://github.com/AGI-init/AGI-init/assets/92597756/551e87d5-d206-4557-bc31-da4a726593b8">
 
-> "If you can't explain it simply, you don't understand it well enough"
->
-> -*Albert Einstein*
+Python has something called [magic methods](https://rszalski.github.io/magicmethods/). One of these is the ```__init__``` method, which initalializes a class. See below:
+
+```ruby
+class AGI:
+    """A General Intelligence"""
+
+    def __init__(self):
+        ...
+
+
+print(f'{AGI.__init__} is a "magic method".')
+```
+
+While this "magic method" is indistinguishable from a technology sufficiently advanced, we have bothered to build some other stuff.
+
+Check it out [here](https://github.com/AGI-init/UnifiedML) and [here](https://github.com/Cave-Dwellers-Tree-People/minihydra), and maybe [here](https://github.com/AGI-init/tributaries) and [here](https://github.com/AGI-init/UnifiedML-legacy).
+
+#
 
 In our code, we strive for:
 
 - *Minimalism*
 - *Beauty*
 - *Pedagogical clarity*
-- *SOTA performance*
-
-All 4.
+- *SotA performance*
 
 On a broader level:
 
@@ -39,25 +50,8 @@ And going a step further:
 - *Anti-militarism*
 - *Anti-surveillance*
 
-The latter two are less frequently cited by other, leading institutions.
+I am an environmentalist, tree-hugger, and probably crazy shamanic priest. Please [sponsor](https://github.com/sponsors/AGI-init) to support and I will do right by you and nature, who governs and nourishes transcendent to the whims of profit and art.
 
-## Our Pledge
+#
 
-We will always put humanity, nature, and Mother Earth first, ahead in the queue before money, bottom line, propriety, or even the art itself.
-
----
-
-Python has something called [magic methods](https://rszalski.github.io/magicmethods/). One of these is the ```__init__``` method, which initalializes a class. See below:
-
-```ruby
-class AGI:
-    """A General Intelligence"""
-
-    def __init__(self):
-        ...
-
-
-print(f'{AGI.__init__} is a method for initializing AGI.')
-```
-
-The magic function of our organization is to initiate AGI. ∎
+<img width="7%" alt="red-heart-outline" src="https://github.com/AGI-init/AGI-init/assets/92597756/57a8b033-b630-45a0-9053-8864d9d09db1">
